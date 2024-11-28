@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coffee-Ecommerce.API", "Coffee-Ecommerce.API.csproj", "{CC6C611B-B8DC-448F-820C-9409D27147F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC6C611B-B8DC-448F-820C-9409D27147F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6C611B-B8DC-448F-820C-9409D27147F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6C611B-B8DC-448F-820C-9409D27147F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6C611B-B8DC-448F-820C-9409D27147F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C91E11D2-7065-4ADC-B16B-FC9FE952EB88}
+	EndGlobalSection
+EndGlobal
